@@ -7,7 +7,6 @@
 /// 类中非静态成员变量、模板参数、函数参数 不能用auto推导类型
 /// 
 /// 除了表示iterator等冗长类型符之外，auto用途：
-
 class Foo0 {
 public:
 	static int get() {
