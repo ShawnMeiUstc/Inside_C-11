@@ -15,18 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <None Include="src\1.4.h" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="src\Source.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="src\1.5.h">
+    <ClInclude Include="src\2.1To2.3.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="src\1.6.h">
+    <ClInclude Include="src\2.4To2.6.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
